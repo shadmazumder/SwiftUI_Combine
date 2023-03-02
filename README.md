@@ -1,2 +1,2 @@
-# SwiftTemplateRepo
-This is a template Repo for Swift project. Please modify according to your need
+# SwiftUI_Combine
+This is a very simple app for a quick run of Combine with SwiftUI.
